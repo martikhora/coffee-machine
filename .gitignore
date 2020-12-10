@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/A simple calculator/out/
+/Problems/A simple calculator/out/production/classes/
+/Problems/Direction/out/
+/Problems/Direction/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/From string to a number/out/
+/Problems/From string to a number/out/production/classes/
+/Problems/Guest list of a hotel/out/
+/Problems/Guest list of a hotel/out/production/classes/
+/Problems/Harry Potter/out/
+/Problems/Harry Potter/out/production/classes/
+/Problems/Hiring a chef/out/
+/Problems/Hiring a chef/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing strings in the same order/out/
+/Problems/Printing strings in the same order/out/production/classes/
+/Problems/Shape/out/
+/Problems/Shape/out/production/classes/
+/Problems/Test learners/out/
+/Problems/Test learners/out/production/classes/
